@@ -1,24 +1,3 @@
-// import 'package:flutter/material.dart';
-// import 'package:moral_mentor/widgets/appbar.dart';
-// import 'package:moral_mentor/widgets/appdrawer.dart';
-// import 'package:syncfusion_flutter_charts/charts.dart';
-
-// class ProfilePage extends StatelessWidget {
-//   const ProfilePage({super.key});
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return const Scaffold(
-//       appBar: ResponsiveAppBar(),
-//       endDrawer: AppDrawer(),
-//       body: Center(
-//         child: Text('Profile Page'),
-//       ),
-//     );
-//   }
-// }
-
-
 import 'package:flutter/material.dart';
 import 'package:moral_mentor/widgets/appbar.dart';
 import 'package:moral_mentor/widgets/appdrawer.dart';
