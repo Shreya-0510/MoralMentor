@@ -1,22 +1,3 @@
-// import 'package:flutter/material.dart';
-// import 'package:moral_mentor/widgets/appbar.dart';
-// import 'package:moral_mentor/widgets/appdrawer.dart';
-// class ScenarioPage extends StatelessWidget {
-//   const ScenarioPage({super.key});
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return const Scaffold(
-//       appBar: ResponsiveAppBar(),
-//       endDrawer: AppDrawer(),
-//       body: Center(
-//         child: Text('Scenarios Page'),
-//       ),
-//     );
-//   }
-// }
-
-
 import 'package:flutter/material.dart';
 import 'package:moral_mentor/widgets/appbar.dart';
 import 'package:moral_mentor/widgets/appdrawer.dart';
